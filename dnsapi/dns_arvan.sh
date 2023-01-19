@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-Arvan_Token="Apikey 4063e6ee-6e01-5fb9-9b29-e5567db6a895"
+Arvan_Token="Apikey xxxx"
 
 ARVAN_API_URL="https://napi.arvancloud.ir/cdn/4.0/domains"
 # Author: Vahid Fardi
